@@ -14,12 +14,12 @@ swift main
 ```
 ## Поддерживаемые команды:
 ### Команды:
-  > help
-  > add -a "author" -t "title" -g genre [-y year] [-tag tag]
-  > list
-  > remove -id UUID
-  > search [-a "author] [-t "title"] [-g genre] [-y year] [-tag tag]
-  > exit
++ help
++ add -a "author" -t "title" -g genre [-y year] [-tag tag]
++ list
++ remove -id UUID
++ search [-a "author] [-t "title"] [-g genre] [-y year] [-tag tag]
++ exit
 
 
 ### Пример:
