@@ -11,11 +11,11 @@
 ### Вариант 2: Swift Package Manager (если проект как SPM)
 ```bash
 swift main
-
+```
 ## Поддерживаемые команды:
-> help
 Команды:
-  add -a "author" -t "title" -g genre [-y year] [-tag tag]...
+  help
+  add -a "author" -t "title" -g genre [-y year] [-tag tag]
   list
   remove -id UUID
   search [-a "author] [-t "title"] [-g genre] [-y year] [-tag tag]
